@@ -37,7 +37,7 @@ Let's create the simple console app with example of usage
 ```c#
 using Unni.Infrastructure;
 ```
-4. Add the method which represents a service for getting list of numbers
+4. Add the method which represents a service for getting the list of numbers
 ```c#
 public static UnniResult<List<int>> FillArray(int count)
 {
