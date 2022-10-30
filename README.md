@@ -1,5 +1,5 @@
 # Unni
-Open-source libraries to create multifunctional and safe structure of your project
+Open-source libraries to create multifunctional and safe structure for your project
 # Unni.Infrastructure
 Represents UnniResult class which allows you to easy transfer validation errors and inner exceptions between methods.
 ## Installation
