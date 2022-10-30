@@ -20,7 +20,7 @@ Represents UnniResult class which allows you to easy transfer validation errors 
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\Logo\Unni-Logo-128x128.png">
+    <None Include="..\..\..\Unni\Logo\Unni-Logo-128x128.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
