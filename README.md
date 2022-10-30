@@ -31,9 +31,9 @@ Divided on 2 classes - `UnniResult` and `UnniResult<T>`
 
 ## Examples
 Let's create the simple console app with example of usage
-1. Create a new Console project
+1. Create the new Console project
 2. Add `Unni.Infrastructure` library using NuGet
-3. Add the namespace to the 'Program.cs' file
+3. Add the namespace to the `Program.cs` file
 ```c#
 using Unni.Infrastructure;
 ```
