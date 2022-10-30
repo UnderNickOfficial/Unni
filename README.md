@@ -5,7 +5,7 @@ Represents UnniResult class which allows you to easy transfer validation errors 
 ## Installation
 Install NuGet package: [Unni.Infrastructure](https://www.nuget.org/packages/unni.infrastructure/)
 
-Or with the Package Manager using the command line below:
+Or using the command line below:
 ```
 dotnet add package unni.infrastructure
 ```
