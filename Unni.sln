@@ -5,7 +5,13 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unni.Infrastructure", "Unni.Infrastructure\Unni.Infrastructure.csproj", "{C14BDE10-B9DB-4485-82D9-F69A589395F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unni.Samples.ConsoleApp", "Unni.Samples\Unni.Samples.ConsoleApp.csproj", "{96342F31-4758-4473-AB01-F65C1A6817EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unni.Samples.ConsoleApp", "Unni.Samples\Unni.Samples.ConsoleApp.csproj", "{96342F31-4758-4473-AB01-F65C1A6817EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unni.Infrastructure.Logger", "Unni.Infrastructure.Logger\Unni.Infrastructure.Logger.csproj", "{6403E9ED-CC9F-4EB3-8885-BA65B55B30B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unni.Infrastructure.Database", "Unni.Infrastructure.Database\Unni.Infrastructure.Database.csproj", "{2584983D-3016-468D-88C0-1C5860AA94A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unni.Samples.WebApiApp", "Unni.Samples.WebApiApp\Unni.Samples.WebApiApp.csproj", "{BF3E6725-CB7C-4C75-801C-9BAB8B2ACADB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{96342F31-4758-4473-AB01-F65C1A6817EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96342F31-4758-4473-AB01-F65C1A6817EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96342F31-4758-4473-AB01-F65C1A6817EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6403E9ED-CC9F-4EB3-8885-BA65B55B30B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6403E9ED-CC9F-4EB3-8885-BA65B55B30B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6403E9ED-CC9F-4EB3-8885-BA65B55B30B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6403E9ED-CC9F-4EB3-8885-BA65B55B30B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2584983D-3016-468D-88C0-1C5860AA94A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2584983D-3016-468D-88C0-1C5860AA94A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2584983D-3016-468D-88C0-1C5860AA94A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2584983D-3016-468D-88C0-1C5860AA94A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3E6725-CB7C-4C75-801C-9BAB8B2ACADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3E6725-CB7C-4C75-801C-9BAB8B2ACADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3E6725-CB7C-4C75-801C-9BAB8B2ACADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3E6725-CB7C-4C75-801C-9BAB8B2ACADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
